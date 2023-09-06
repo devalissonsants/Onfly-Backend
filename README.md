@@ -33,7 +33,8 @@ Certifique-se de que você possui os seguintes requisitos instalados antes de in
 
 8. php artisan db:seed
 
-8. php artisan serve
+9. php artisan serve
 
-9. seu-projeto/Test Onfly.postman_collection (exemplo de collection para o postman).
+## Adicional
 
+1. seu-projeto/Test Onfly.postman_collection (exemplo de collection para o postman).
